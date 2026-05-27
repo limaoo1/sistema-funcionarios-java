@@ -13,9 +13,9 @@ O projeto simula um sistema de gerenciamento de funcionários que funciona pelo 
 ✅ Busca por nome  
 ✅ Edição de funcionários  
 ✅ Remoção de funcionários  
-✅ Créditos  
 ✅ Salvamento automático em arquivo  
-✅ Carregamento de dados  
+✅ Carregamento automático dos dados  
+✅ Sistema de créditos  
 
 ---
 
@@ -36,3 +36,4 @@ Main.java
 Funcionario.java
 funcionarios.txt
 README.md
+.gitignore
