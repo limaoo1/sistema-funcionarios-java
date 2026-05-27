@@ -1,5 +1,10 @@
 # Sistema de Funcionários em Java
 
+# Preview do sistema:
+
+<img width="615" height="436" alt="image" src="https://github.com/user-attachments/assets/99b29954-34e6-4ed5-a7b2-24b947aa4646" />
+
+
 Pequeno sistema desenvolvido em Java utilizando programação orientada a objetos.
 
 O projeto simula um sistema de gerenciamento de funcionários que funciona pelo terminal, permitindo cadastrar, listar, buscar, editar e remover funcionários, além de salvar os dados automaticamente em arquivo `.txt`.
