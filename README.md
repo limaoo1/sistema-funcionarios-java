@@ -1,21 +1,38 @@
 # Sistema de Funcionários em Java
 
-Projeto desenvolvido em Java utilizando programação orientada a objetos.
+Pequeno sistema desenvolvido em Java utilizando programação orientada a objetos.
+
+O projeto simula um sistema de gerenciamento de funcionários que funciona pelo terminal, permitindo cadastrar, listar, buscar, editar e remover funcionários, além de salvar os dados automaticamente em arquivo `.txt`.
+
+---
 
 ## Funcionalidades
-- Cadastro de funcionários
-- Listagem
-- Busca
-- Remoção
-- Edição
-- Salvamento em arquivo `.txt`
-- Carregamento automático de dados
+
+✅ Cadastro de funcionários  
+✅ Listagem de funcionários  
+✅ Busca por nome  
+✅ Edição de funcionários  
+✅ Remoção de funcionários  
+✅ Créditos  
+✅ Salvamento automático em arquivo  
+✅ Carregamento de dados  
+
+---
 
 ## Tecnologias utilizadas
+
 - Java
 - VS Code
 - Git
 - GitHub
+- Programação Orientada a Objetos (POO)
 
-## Autor
-Luis Felipe
+---
+
+## Estrutura do projeto
+
+```text
+Main.java
+Funcionario.java
+funcionarios.txt
+README.md
